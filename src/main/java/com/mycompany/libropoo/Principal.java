@@ -12,7 +12,7 @@ public class Principal {
      *
      * @param args
      *
-     * Complejidad tenporal: o(1) Tiempo constante
+     * Complejidad tenporal: O(1) Tiempo constante
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
